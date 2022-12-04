@@ -6,14 +6,6 @@ class Solution:
         nums1.extend(nums2)
         nums1.sort()
           
-        
-        
-        
-        
-        
-        
-
-        
         """
         Do not return anything, modify nums1 in-place instead.
         """
